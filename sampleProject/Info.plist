@@ -41,16 +41,16 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-    <key>provisioningProfiles</key>
-    <dict>
-        <key>com.softprodigy.jenkinsapp</key>
-        <string>d4ff8aae-10fe-49da-ac0a-b73dc94a0a35</string>
-    </dict>
-    <key>signingCertificate</key>
-    <string>iOS Distribution</string>
-    <key>signingStyle</key>
-    <string>manual</string>
-    <key>teamID</key>
-    <string>4Q92Z86L4P</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.softprodigy.jenkinsapp</key>
+		<string>d4ff8aae-10fe-49da-ac0a-b73dc94a0a35</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>softprodigyJenkinsDistribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>teamID</key>
+	<string>4Q92Z86L4P</string>
 </dict>
 </plist>

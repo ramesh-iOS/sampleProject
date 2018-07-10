@@ -565,8 +565,8 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.softprodigy.jenkinsapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "b6019faa-7936-4a8e-b49b-03e09d8374f2";
-				PROVISIONING_PROFILE_SPECIFIER = JenkinsDistribution;
+				PROVISIONING_PROFILE = "d4ff8aae-10fe-49da-ac0a-b73dc94a0a35";
+				PROVISIONING_PROFILE_SPECIFIER = softprodigyJenkinsDistribution;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -591,8 +591,8 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.softprodigy.jenkinsapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "b6019faa-7936-4a8e-b49b-03e09d8374f2";
-				PROVISIONING_PROFILE_SPECIFIER = JenkinsDistribution;
+				PROVISIONING_PROFILE = "d4ff8aae-10fe-49da-ac0a-b73dc94a0a35";
+				PROVISIONING_PROFILE_SPECIFIER = softprodigyJenkinsDistribution;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
